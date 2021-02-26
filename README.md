@@ -1,10 +1,10 @@
 # LIFE TOOLS
 
-## 概要
+## SUMMARY
 
-- あると便利な雑多なツール
+- Tiny tools that are useful to have
 
-## 一覧
+## TOOLS DESCRIPTION
 
 - export-kindle-info
-  - Kindleのタイトル一覧を出力する
+  - Output Kindle title list
