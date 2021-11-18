@@ -14,6 +14,9 @@ sudo defaults write com.apple.loginwindow LogoutHook ~/set-sound/02-small-sound.
 
 # ログアウト設定削除
 sudo defaults delete com.apple.loginwindow LogoutHook
+
+# 実行権限付与
+sudo chmod +x ~/set-sound/01-middle-sound.sh ~/set-sound/02-small-sound.sh
 ```
 
 ## 注意
