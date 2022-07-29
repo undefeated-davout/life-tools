@@ -12,7 +12,7 @@
 ## 英かな
 
 ```bash
-cp ./eikana/before-sleep_after-awake.plist ~/Library/LaunchAgents/
+cp ./sleepwatcher/before-sleep_after-awake.plist ~/Library/LaunchAgents/
 launchctl load ~/Library/LaunchAgents/before-sleep_after-awake.plist
 ```
 
