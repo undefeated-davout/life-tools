@@ -9,6 +9,7 @@
         <string>/usr/local/sbin/sleepwatcher</string>
         <string>-V</string>
         <string>-w ~/data/repo/github.com/undefeated-davout/life-tools/eikana/eikana_reboot.sh</string>
+        <string>-w ~/data/repo/github.com/undefeated-davout/life-tools/night_shift/night_shift.sh</string>
     </array>
     <key>RunAtLoad</key>
     <true/>
