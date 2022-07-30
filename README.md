@@ -13,6 +13,6 @@
 
 ```bash
 cp ./sleepwatcher/before-sleep_after-awake.plist ~/Library/LaunchAgents/
+launchctl unload ~/Library/LaunchAgents/before-sleep_after-awake.plist
 launchctl load ~/Library/LaunchAgents/before-sleep_after-awake.plist
 ```
-
