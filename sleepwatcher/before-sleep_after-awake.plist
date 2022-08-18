@@ -8,7 +8,7 @@
     <array>
         <string>/usr/local/sbin/sleepwatcher</string>
         <string>-V</string>
-        <string>-w ~/data/repo/github.com/undefeated-davout/life-tools/sleepwatcher/wake.sh</string>
+        <string>-w ~/work/repo/github.com/undefeated-davout/life-tools/sleepwatcher/wake.sh</string>
     </array>
     <key>RunAtLoad</key>
     <true/>
