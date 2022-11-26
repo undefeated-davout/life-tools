@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
 # Night Shift ON
-osascript ~/work/repo/github.com/undefeated-davout/life-tools/night_shift/night_shift.sh
+osascript ~/data/repo/github.com/undefeated-davout/life-tools/night_shift/night_shift.sh
 # 英かな再起動
-osascript ~/work/repo/github.com/undefeated-davout/life-tools/eikana/eikana_reboot.sh
+osascript ~/data/repo/github.com/undefeated-davout/life-tools/eikana/eikana_reboot.sh
